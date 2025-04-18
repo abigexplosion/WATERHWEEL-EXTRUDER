@@ -13,5 +13,7 @@ Motor - https://northprint3d.ca/product/ldo-36sth20-0804ah/  -- run current at 1
 
 Worm gear - https://www.khkgears.us/catalog/product/SW0.5-R2/
 
+Bearings - 2x 623 bearings
+
 ![image](https://github.com/user-attachments/assets/93f4bd31-be2c-4ea8-bd79-7a4482cc90b2)
 ![image](https://github.com/user-attachments/assets/066f7af3-aaeb-4c1d-90e8-38176fb1dcee)

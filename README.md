@@ -1,4 +1,4 @@
-This is the waterwheel extruder. It uses an Bambu X1 gear assembly and a 2 start 12mm worm from KHK. Has about a 27:1 gear ratio.
+This is the waterwheel extruder. It uses an Bambu X1 gear assembly and a 2 start 12mm worm from KHK. DFA mounting. Has about a 27:1 gear ratio.
 
 Approximate weight: 140g
 Rotation distance: 1.090975
